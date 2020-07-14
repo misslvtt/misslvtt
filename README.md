@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My husband is a beast <img src="https://github.com/kimbo.png" width="20">
+### <a href="https://github.com/kimbo">Checkout his awesome Github profile :octocat:</a>
 <!--
 **misslvtt/misslvtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
